@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stage": "planned",
+  "entry_mode": "auto",
+  "topic": "",
+  "decisions": {},
+  "confirmations": {
+    "script": null,
+    "design": null,
+    "storyboard": null,
+    "review": null,
+    "cover": null
+  },
+  "timing_precision": "pending",
+  "artifacts": {},
+  "pending": [],
+  "next_action": "盘点输入与工具",
+  "published_evidence": null
+}

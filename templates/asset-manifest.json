@@ -1,0 +1,24 @@
+{
+  "assets": [],
+  "asset_fields": {
+    "id": "",
+    "purpose": "",
+    "local_path": null,
+    "task_id": null,
+    "submitted_prompt": "",
+    "display_prompt": "",
+    "prompt_version": 1,
+    "regenerated": false,
+    "technical_status": "pending",
+    "semantic_status": "pending",
+    "source_duration_seconds": null,
+    "source_events": [],
+    "speech_events": [],
+    "edit": {
+      "source_in": null,
+      "source_out": null,
+      "playback_speed": 1
+    },
+    "review_evidence": null
+  }
+}

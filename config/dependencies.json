@@ -1,0 +1,13 @@
+{
+  "verified_on": "2026-10-07",
+  "profiles": {
+    "recommended": ["autodl", "hyperframes"],
+    "all": ["autodl", "hyperframes", "remotion", "chatcut"]
+  },
+  "tools": {
+    "autodl": {"kind": "bundled", "directory": "addons/autodl-broll", "skill": "autodl-broll"},
+    "hyperframes": {"kind": "remote", "source": "heygen-com/hyperframes", "skills": ["hyperframes", "hyperframes-core", "hyperframes-animation", "hyperframes-cli", "hyperframes-creative", "hyperframes-keyframes", "hyperframes-audio", "hyperframes-registry", "media-use"], "min_node_major": 22},
+    "remotion": {"kind": "remote", "source": "remotion-dev/skills", "skills": ["remotion-best-practices"]},
+    "chatcut": {"kind": "remote", "source": "https://github.com/ChatCut-Inc/agent-plugin/tree/main/chatcut-desktop-codex-plugin", "skills": ["connect-chatcut-desktop"], "surface": "desktop"}
+  }
+}

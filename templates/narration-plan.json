@@ -1,0 +1,18 @@
+{
+  "timing_status": "planned",
+  "source_mode": "ask",
+  "segments": [],
+  "segment_fields": {
+    "id": "",
+    "text": "",
+    "visual_role": "presenter",
+    "source": "self_recorded",
+    "estimated_duration_seconds": null,
+    "actual_file": null,
+    "actual_start": null,
+    "actual_end": null
+  },
+  "final_narration_video": null,
+  "final_audio": null,
+  "aligned_transcript": null
+}

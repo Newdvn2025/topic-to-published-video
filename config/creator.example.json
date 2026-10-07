@@ -1,0 +1,21 @@
+{
+  "creator_name": "",
+  "platform": "xiaohongshu",
+  "video_aspect_ratio": "16:9",
+  "cover_aspect_ratios": [
+    "3:4",
+    "4:3"
+  ],
+  "outro_template": "",
+  "entry_mode": "auto",
+  "preferred_video_tool": "auto",
+  "preferred_editor": "auto",
+  "prompt_card_mode": "auto",
+  "retry_budget": {
+    "additional_paid_attempts": 0
+  },
+  "publish_requires_explicit_request": true,
+  "narration_mode": "ask",
+  "avatar_provider": "heygen",
+  "avatar_visual_policy": "presenter_segments_only"
+}
