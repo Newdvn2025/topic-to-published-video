@@ -1,3 +1,5 @@
+![Topic to Published Video：选题与框架、口播与提示词、生成B-roll、录制A-roll、包装与剪辑、成片与发布包，由净弘整理的AI视频创作SOP](assets/readme-banner.png)
+
 # Topic to Published Video
 
 作者：**净弘** · 小红书「**净弘师兄的AI笔记**」
